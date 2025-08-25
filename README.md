@@ -1,4 +1,4 @@
-# Hi there this is Radhwan Saleh Khaleel's profile 👋
+# Hi there, this is Radhwan Saleh Khaleel's profile 👋
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=RdwanSKhalil)

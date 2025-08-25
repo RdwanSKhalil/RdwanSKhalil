@@ -38,8 +38,9 @@ and building innovative projects. With a strong tech-savvy background, he enjoys
 
 ## 🚀 Project
 
-**Education Control System**  
-Created an Education Control System with my colleagues, which is a desktop application and website for managing and controlling school work and student grades.  
+### ![Education Control System](https://img.shields.io/badge/Education%20Control%20System-%F0%9F%8C%9F-important?style=for-the-badge)
+
+Created an **Education Control System** with my colleagues, which is a desktop application and website for managing and controlling school work and student grades.  
 It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
 
 ---

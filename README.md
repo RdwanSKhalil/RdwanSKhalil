@@ -51,30 +51,3 @@ It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white) | Advanced in managing and coding in Visual Studio |
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-blue?style=for-the-badge&logo=visual-studio&logoColor=white) | Advanced in managing and coding in Visual Studio |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Experienced in using GitHub for managing code and projects |
-
----
-
-<table width="100%">
-  <tr>
-    <th align="left" width="240px">Skill</th>
-    <th align="left">Description</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Microsoft%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white">
-    </td>
-    <td>Proficient in Word, Excel and PowerPoint</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white">
-    </td>
-    <td>Advanced in managing and coding in Visual Studio</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </td>
-    <td>Experienced in using GitHub for managing code and projects</td>
-  </tr>
-</table>

@@ -10,7 +10,7 @@ and building innovative projects. With a strong tech-savvy background, he enjoys
 
 ---
 
-## My Programming Skills
+## 💻 My Programming Skills  
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,4 +33,21 @@ and building innovative projects. With a strong tech-savvy background, he enjoys
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 🚀 Project
+
+**Education Control System**  
+Created an Education Control System with my colleagues, which is a desktop application and website for managing and controlling school work and student grades.  
+It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
+
+---
+
+## 🛠️ Additional Skills
+
+- **Microsoft Office:** Proficient in Word, Excel and PowerPoint  
+- **Visual Studio:** Advanced in managing and coding in Visual Studio  
+- **GitHub:** Experienced in using GitHub for managing code and projects  
+
 

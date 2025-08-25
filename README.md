@@ -47,12 +47,9 @@ It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
 
 ## 🛠️ Additional Skills
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white)  
-Proficient in Word, Excel and PowerPoint
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white): Proficient in Word, Excel and PowerPoint
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white)  
-Advanced in managing and coding in Visual Studio
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white): Advanced in managing and coding in Visual Studio
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-Experienced in using GitHub for managing code and projects
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): Experienced in using GitHub for managing code and projects
 

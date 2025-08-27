@@ -1,8 +1,5 @@
 # Hi there, this is Radhwan Saleh Khaleel's profile 👋
 
-
-![Profile views](https://komarev.com/ghpvc/?username=RdwanSKhalil)
-
 ## About Me
 
 Radhwan Saleh Khaleel is a computer science graduate who is passionate about technology, programming, 
@@ -51,3 +48,7 @@ It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white) | Advanced in managing and coding in Visual Studio |
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-blue?style=for-the-badge&logo=visual-studio&logoColor=white) | Advanced in managing and coding in Visual Studio Code |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Experienced in using GitHub for managing code and projects |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=RdwanSKhalil)

@@ -43,6 +43,8 @@ It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
 ---
 ## 🛠️ Additional Skills
 
+Some of the tech and skills i learned during project developments
+
 | Tool                               | Description                                         |
 |-------------------------------------|-----------------------------------------------------|
 | ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white) | Proficient in Word, Excel and PowerPoint  |

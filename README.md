@@ -43,7 +43,7 @@ It was developed using **C#**, **HTML**, **PHP**, **CSS**, and other tools.
 ---
 ## 🛠️ Additional Skills
 
-Some of the tech and skills i learned during project developments
+Some of the tech and skills i learned and used during project developments
 
 | Tool                               | Description                                         |
 |-------------------------------------|-----------------------------------------------------|
